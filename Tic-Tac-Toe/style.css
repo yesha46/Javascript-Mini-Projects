@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.heading{
+    text-align: center;
+    margin: 2rem 0 2rem 0;
+}
+
+body{
+    text-align: center;
+    background-color: antiquewhite ;
+  
+}
+
+.container{
+    height: 60vh;
+    width: 60vh;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 15vh 15vh 15vh;
+    grid-template-rows: 15vh 15vh 15vh;
+    grid-gap: 5px;
+    justify-content: center;
+
+}
+
+.box{
+    background-color: aliceblue;
+    font-size: 50px;
+    border-radius: 1rem;
+    align-items: center;
+    height: 15vh;
+    width: 15vh;
+}
+
+.btn{
+    display: flex;
+}
+
+button{
+    margin:auto;
+    height: 40px;
+    width: 100px;
+    background-color: rgb(240, 185, 114);
+    border-radius: 0.5rem;
+}
+
+.winner{
+    font-size:xx-large;
+    margin: 0 0 4rem 0;
+
+
+}
+
+.hide{
+    display: none;
+}
