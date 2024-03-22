@@ -8,15 +8,15 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: lavender;
+    background-color: rgb(26, 26, 84);
 }
 
 .container{
-    background-color: blanchedalmond;
+    background-color: whitesmoke;
     padding: 2rem;
     border-radius: 1rem;
     width: 60vh;
-    border: 2px black solid;
+    border: 2px white solid;
 }
 
 form{
@@ -28,9 +28,10 @@ form input{
     margin: 0.5rem 0 0.5rem 0;
     height: 1.5rem;
     font-size: 1rem;
-    font-weight: bold;
     border-radius: 0.5rem;
-    background-color: lavender;
+    background-color:rgb(77, 77, 137);
+    color: white;
+    border: 2px white solid;
 }
 
 .dropdown{
@@ -47,9 +48,10 @@ button{
     width: 30%;
     height: 3rem;
     border-radius: 0.5rem;
-    background-color: rgb(122, 122, 231);
+    background-color: rgb(77, 77, 137);
     cursor: pointer;
     color: white;
+    border: 2px white solid;
 }
 
 i{
@@ -64,16 +66,19 @@ i{
 
 #from,#to{
     border-radius: 0.3rem;
-    background-color: lavender;
+    background-color:rgb(77, 77, 137);
+    color: white;
+    border: 2px white solid
 }
 
 .msg{
     
     height: 1.5rem;
-    background-color: lavender;
+    background-color: rgb(77, 77, 137);
     font-size: 1rem;
     font-weight: bold;
     margin-top: 2rem;
-    border: 2px black solid;
+    border: 2px white solid;
     border-radius: 0.5rem;
+    color: white;
 }
