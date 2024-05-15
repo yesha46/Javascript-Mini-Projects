@@ -6,13 +6,13 @@
 .heading{
     text-align: center;
     margin: 2rem 0 2rem 0;
-    color: white;
+    color: black;
 }
 
 body{
     text-align: center;
-    background-color:darkslategrey ;
-    color: white;
+    background-color:rgb(231, 211, 145) ;
+    color: black;
   
 }
 
@@ -29,7 +29,7 @@ body{
 }
 
 .box{
-    background-color:lightyellow;
+    background-color: antiquewhite;
     font-size: 50px;
     border-radius: 1rem;
     align-items: center;
@@ -46,9 +46,9 @@ button{
     margin:auto;
     height: 40px;
     width: 100px;
-    background-color:rgb(162, 230, 205);
+    background-color: rgb(233, 161, 67);
     border-radius: 0.5rem;
-    border: 1rem;
+    border: 0.05rem solid black;
 }
 
 .winner{
