@@ -6,13 +6,13 @@
 .heading{
     text-align: center;
     margin: 2rem 0 2rem 0;
-    color: black;
+    color: rgb(244, 240, 236);
 }
 
 body{
     text-align: center;
-    background-color:rgb(231, 211, 145) ;
-    color: black;
+    background-color: rgb(38, 63, 63) ;
+    color:white;
   
 }
 
@@ -29,7 +29,7 @@ body{
 }
 
 .box{
-    background-color: antiquewhite;
+    background-color: rgb(242, 240, 181);
     font-size: 50px;
     border-radius: 1rem;
     align-items: center;
@@ -46,7 +46,7 @@ button{
     margin:auto;
     height: 40px;
     width: 100px;
-    background-color: rgb(233, 161, 67);
+    background-color: rgb(137, 222, 214);
     border-radius: 0.5rem;
     border: 0.05rem solid black;
 }
